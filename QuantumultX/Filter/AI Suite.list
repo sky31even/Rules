@@ -1,6 +1,10 @@
 # > ChatGPT
 HOST-SUFFIX,ai.com,AI Suite
+HOST-SUFFIX,chat.com,AI Suite
 HOST-SUFFIX,chatgpt.com,AI Suite
+HOST-SUFFIX,livekit.cloud,AI Suite
+
+HOST-SUFFIX,crixet.com,AI Suite
 HOST-SUFFIX,openai.com,AI Suite
 
 # > Chat GPT API & CDN
@@ -10,12 +14,15 @@ HOST,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net,AI Suite
 HOST,openaicomproductionae4b.blob.core.windows.net,AI Suite
 HOST,production-openaicom-storage.azureedge.net,AI Suite
 HOST,o33249.ingest.sentry.io,AI Suite
-HOST-SUFFIX,cdn.oaistatic.com,AI Suite
+HOST-SUFFIX,oaistatic.com,AI Suite
 HOST-SUFFIX,oaiusercontent.com,AI Suite
 
 # > Claude
 HOST-SUFFIX,anthropic.com,AI Suite
+HOST-SUFFIX,claude.de,AI Suite
 HOST-SUFFIX,claude.ai,AI Suite
+HOST-SUFFIX,claude.com,AI Suite
+HOST-SUFFIX,claudemcpclient.com,AI Suite
 HOST-SUFFIX,claudeusercontent.com,AI Suite
 
 # > Copilot
